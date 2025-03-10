@@ -1,0 +1,12 @@
+{
+  "name": "kalkis",
+  "version": "1.0.0",
+  "description": "kalkulator",
+  "main": "index.js",
+"scripts": {
+    "test": "node --test"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
