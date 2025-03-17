@@ -1,12 +1,17 @@
 {
-  "name": "kalkis",
+  "name": "web-kalkulator",
+  "type": "module",
   "version": "1.0.0",
-  "description": "kalkulator",
   "main": "index.js",
-"scripts": {
-    "test": "node --test"
-
+  "scripts": {
+    "test": "node --test",
+    "dev": "nodemon index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "web-kalkulator"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
